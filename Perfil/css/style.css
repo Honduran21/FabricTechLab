@@ -1,0 +1,20 @@
+.fondo{
+color: grey;
+font-size: 60px;
+
+}
+ 
+.color{
+    color: blue;
+    
+}
+
+.fondotrufade{
+    background-image: url(/parafondotrufade.jpg);
+}
+
+.fondodecuerpo{
+    background-image: url(/bodybackground.jpg);
+    background-size: 100%;
+    color: rgb(8, 14, 0);
+}
